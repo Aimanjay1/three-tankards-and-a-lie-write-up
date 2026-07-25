@@ -1,7 +1,3 @@
-Here is a complete CTF-style write-up for the challenge. You can use this for your personal notes, a blog post, or a portfolio.
-
----
-
 # CTF Write-Up: Three Tankards and a Lie
 
 ## Challenge Overview
